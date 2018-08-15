@@ -41,7 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				A884D39B21240A450000E211 /* CoreDataLagi */,
-				A884D39A21240A450000E211 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,6 +50,7 @@
 				A884D39921240A450000E211 /* CoreDataLagi.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A884D39B21240A450000E211 /* CoreDataLagi */ = {
@@ -63,6 +63,7 @@
 				A884D3A821240A460000E211 /* LaunchScreen.storyboard */,
 				A884D3AB21240A460000E211 /* Info.plist */,
 				A884D3A321240A450000E211 /* CoreDataLagi.xcdatamodeld */,
+				A884D39A21240A450000E211 /* Products */,
 			);
 			path = CoreDataLagi;
 			sourceTree = "<group>";
